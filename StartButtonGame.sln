@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StartButtonGame", "StartButtonGame\StartButtonGame.csproj", "{AE06B3E5-3255-4FD1-85FE-AB3AEEB402AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE06B3E5-3255-4FD1-85FE-AB3AEEB402AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE06B3E5-3255-4FD1-85FE-AB3AEEB402AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE06B3E5-3255-4FD1-85FE-AB3AEEB402AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE06B3E5-3255-4FD1-85FE-AB3AEEB402AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F27AEBE7-513C-463A-BA20-F9FEE8017867}
+	EndGlobalSection
+EndGlobal
